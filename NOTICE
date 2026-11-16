@@ -1,0 +1,4 @@
+pearOS-bsd
+Our code in this repository is licensed under the BSD 2-Clause License (see LICENSE).
+Code of other projects under upstream/ keeps its own licence (see the licence files next to it and PROVENANCE.md); it is not covered by LICENSE.
+The rules for the whole project: https://github.com/pearOS-bsd/docs/blob/main/development/LICENSES.md
